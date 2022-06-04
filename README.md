@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Migs77/huddle-landing-page-single-intro.git)
-- Live Site URL: [Huddle Landing Page](https://your-live-site-url.com)
+- Live Site URL: [Huddle Landing Page]([https://your-live-site-url.com](https://migs77.github.io/huddle-landing-page-single-intro/))
 
 ## My process
 
